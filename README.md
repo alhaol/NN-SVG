@@ -1,8 +1,3 @@
-# [NN-SVG](http://alexlenail.me/NN-SVG/)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![status](http://joss.theoj.org/papers/52b511ab107595a805107aa4ad70161d/status.svg)](http://joss.theoj.org/papers/52b511ab107595a805107aa4ad70161d)
-| [Docs](https://github.com/zfrenchee/NN-SVG/wiki) | [Contributing](https://github.com/zfrenchee/NN-SVG/wiki/Contributing)
 
 Illustrations of Neural Network architectures are often time-consuming to produce, and machine learning researchers all too often find themselves constructing these diagrams from scratch by hand.
 
@@ -19,8 +14,3 @@ I hope this tool will save machine learning researchers time, and I hope this so
 
 > LeNail, (2019). NN-SVG: Publication-Ready Neural Network Architecture Schematics. <br>
 > Journal of Open Source Software, 4(33), 747, https://doi.org/10.21105/joss.00747
-
-### Related
-
-- [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
-- [TensorSpace](https://github.com/tensorspace-team/tensorspace)
